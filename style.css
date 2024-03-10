@@ -27,6 +27,11 @@ body{
     font-size: large;
     font-weight: 500;
 }
+.key:hover{
+    background-color: rgb(75, 75, 75);
+    color: #81dbf9;
+    
+}
 #keyID55{
     order: -1;
 }
